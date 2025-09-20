@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "kali_mcp": {
+      "command": "python",
+      "args": [
+        "D:/mcp/mcp_server.py",
+        "--server",
+        "http://192.168.31.72:5000"
+      ]
+    }
+  }
+}
